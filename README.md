@@ -1,1 +1,1 @@
-# My Leet-Code sloutuons
+# Daily Leet-code solutions
